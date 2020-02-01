@@ -1,0 +1,6 @@
+{
+	"name": "spin-to-win",
+	"plugin": "plugin.js",
+	"module": false,
+	"ccmodDependencies": {}
+}
