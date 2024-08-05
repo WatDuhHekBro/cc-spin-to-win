@@ -1,6 +1,0 @@
-{
-	"name": "spin-to-win",
-	"version": "0.1.0",
-	"prestart": "prestart.js",
-	"module": true
-}

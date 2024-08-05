@@ -1,0 +1,10 @@
+{
+	"id": "spin-to-win",
+	"version": "0.1.0",
+	"title": "Spin to win",
+	"description": "Changes the idle animation to a T-Pose which then spins faster and faster",
+	"repository": "https://github.com/WatDuhHekBro/cc-spin-to-win",
+	"tags": ["cosmetic", "fun"],
+	"authors": ["WatDuhHekBro"],
+	"prestart": "prestart.js"
+}
