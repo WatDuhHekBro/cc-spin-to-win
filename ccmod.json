@@ -6,5 +6,8 @@
 	"repository": "https://github.com/WatDuhHekBro/cc-spin-to-win",
 	"tags": ["cosmetic", "fun"],
 	"authors": ["WatDuhHekBro"],
+	"icons": {
+		"24": "icon.png"
+	},
 	"prestart": "prestart.js"
 }
